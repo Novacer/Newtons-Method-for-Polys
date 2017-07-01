@@ -45,7 +45,7 @@ public class Polynomial {
 	public List<Terms> getPolynomial(){
 		return polynomial;
 	}
-	
+	//for testing purposes only
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		List<Terms> list = new ArrayList<Terms>();
