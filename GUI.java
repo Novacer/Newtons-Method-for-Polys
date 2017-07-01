@@ -6,7 +6,7 @@ import java.util.List;
 import newtonsMethod.Polynomials.FindPolyRoots;
 import javax.swing.JOptionPane;
 import javax.swing.UIManager;
-
+//driver class
 public class GUI {
 	public static void main(String[] args){
 		//ui manager formats the window and font
