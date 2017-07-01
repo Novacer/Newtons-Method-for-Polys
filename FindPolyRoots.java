@@ -37,7 +37,7 @@ public class FindPolyRoots {
 			root(poly, deri, xn);
 		}
 	}
-	
+	//for testing purposes only
 	public static void main(String[] args){
 		List<Terms> list = new ArrayList<Terms>();
 		Scanner input = new Scanner(System.in);
