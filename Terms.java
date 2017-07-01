@@ -12,7 +12,7 @@ public class Terms {
 	private int power;
 	
 /**constructor
-* @param term.substring(0,1) is an integer. example: x^2 is not ok, 1x^2 is ok!
+* @param String term must begin with an integer. example: x^2 is not ok, 1x^2 is ok!
 */
 	public Terms(String term){
 		this.term = term;
