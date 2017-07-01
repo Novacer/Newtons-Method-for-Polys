@@ -44,7 +44,7 @@ public class Derivative {
 			System.out.print(term.getTerm() + " ");
 		}
 	}
-	
+	//for testing purposes only
 	public static void main(String[] args){
 		List<Terms> list = new ArrayList<Terms>();
 		Scanner input = new Scanner(System.in);
